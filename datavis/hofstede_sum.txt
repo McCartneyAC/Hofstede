@@ -1,0 +1,15 @@
+Variable	all
+Power distance index	59.1471
+	(22.0232)
+Individualism vs. collectivism	44.1176
+	(23.9636)
+Masculinity vs. femininity	48.7794
+	(19.9767)
+Uncertainty avoidance index	67.7647
+	(23.8847)
+Long-term orientation vs. short-term orientation	45.1778
+	(23.6954)
+Indulgence vs. restraint	45.3736
+	(22.5609)
+Observations	225
+Standard deviations in parentheses	
